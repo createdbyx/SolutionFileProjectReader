@@ -1,0 +1,13 @@
+E:\Caseys\Practices\SolutionFileProjectReader\SolutionFileProjectReader\bin\Debug\SolutionFileProjectReader.exe.config
+E:\Caseys\Practices\SolutionFileProjectReader\SolutionFileProjectReader\bin\Debug\SolutionFileProjectReader.exe
+E:\Caseys\Practices\SolutionFileProjectReader\SolutionFileProjectReader\bin\Debug\SolutionFileProjectReader.pdb
+E:\Caseys\Practices\SolutionFileProjectReader\SolutionFileProjectReader\bin\Debug\EPPlus.dll
+E:\Caseys\Practices\SolutionFileProjectReader\SolutionFileProjectReader\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Caseys\Practices\SolutionFileProjectReader\SolutionFileProjectReader\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Caseys\Practices\SolutionFileProjectReader\SolutionFileProjectReader\bin\Debug\EPPlus.xml
+E:\Caseys\Practices\SolutionFileProjectReader\SolutionFileProjectReader\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Caseys\Practices\SolutionFileProjectReader\SolutionFileProjectReader\obj\Debug\SolutionFileProjectReader.csprojAssemblyReference.cache
+E:\Caseys\Practices\SolutionFileProjectReader\SolutionFileProjectReader\obj\Debug\SolutionFileProjectReader.csproj.CoreCompileInputs.cache
+E:\Caseys\Practices\SolutionFileProjectReader\SolutionFileProjectReader\obj\Debug\SolutionFileProjectReader.csproj.CopyComplete
+E:\Caseys\Practices\SolutionFileProjectReader\SolutionFileProjectReader\obj\Debug\SolutionFileProjectReader.exe
+E:\Caseys\Practices\SolutionFileProjectReader\SolutionFileProjectReader\obj\Debug\SolutionFileProjectReader.pdb
